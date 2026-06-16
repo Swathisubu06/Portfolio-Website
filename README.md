@@ -39,7 +39,7 @@ A web application that fetches and displays real-time data using external APIs a
 
 ## Live Demo
 
-(Will be added after GitHub Pages deployment)
+
 
 https://yourusername.github.io/portfolio-website/
 
